@@ -1,0 +1,78 @@
+year,province,food_insecurity_pct,reliability
+2018,Alberta,19.4,C
+2019,Alberta,18.6,C
+2020,Alberta,19.8,C
+2021,Alberta,22.0,C
+2022,Alberta,28.2,C
+2023,Alberta,31.3,C
+2024,Alberta,28.4,C
+2018,British Columbia,16.3,C
+2019,British Columbia,16.3,C
+2020,British Columbia,14.7,C
+2021,British Columbia,16.9,C
+2022,British Columbia,22.1,C
+2023,British Columbia,24.5,C
+2024,British Columbia,23.2,C
+2018,Canada,16.8,B
+2019,Canada,16.0,B
+2020,Canada,15.8,B
+2021,Canada,18.5,A
+2022,Canada,23.1,A
+2023,Canada,25.7,A
+2024,Canada,24.0,A
+2018,Manitoba,18.9,C
+2019,Manitoba,18.3,C
+2020,Manitoba,17.0,C
+2021,Manitoba,19.4,C
+2022,Manitoba,26.4,C
+2023,Manitoba,25.3,C
+2024,Manitoba,27.9,C
+2018,New Brunswick,17.7,C
+2019,New Brunswick,15.6,C
+2020,New Brunswick,18.3,C
+2021,New Brunswick,22.6,C
+2022,New Brunswick,25.3,C
+2023,New Brunswick,29.6,C
+2024,New Brunswick,28.2,C
+2018,Newfoundland and Labrador,19.0,C
+2019,Newfoundland and Labrador,17.9,D
+2020,Newfoundland and Labrador,17.5,C
+2021,Newfoundland and Labrador,22.9,C
+2022,Newfoundland and Labrador,26.0,C
+2023,Newfoundland and Labrador,30.6,C
+2024,Newfoundland and Labrador,25.5,C
+2018,Nova Scotia,20.9,C
+2019,Nova Scotia,18.0,C
+2020,Nova Scotia,17.8,C
+2021,Nova Scotia,22.2,C
+2022,Nova Scotia,28.8,C
+2023,Nova Scotia,29.8,C
+2024,Nova Scotia,26.2,C
+2018,Ontario,16.9,B
+2019,Ontario,17.2,C
+2020,Ontario,16.1,B
+2021,Ontario,19.3,B
+2022,Ontario,24.6,B
+2023,Ontario,26.5,B
+2024,Ontario,25.4,B
+2018,Prince Edward Island,16.8,C
+2019,Prince Edward Island,18.1,D
+2020,Prince Edward Island,16.7,D
+2021,Prince Edward Island,23.2,D
+2022,Prince Edward Island,30.1,D
+2023,Prince Edward Island,24.4,C
+2024,Prince Edward Island,23.3,D
+2018,Quebec,14.5,C
+2019,Quebec,11.0,C
+2020,Quebec,12.8,C
+2021,Quebec,14.8,C
+2022,Quebec,15.8,C
+2023,Quebec,19.9,B
+2024,Quebec,18.0,C
+2018,Saskatchewan,17.3,C
+2019,Saskatchewan,17.7,C
+2020,Saskatchewan,18.5,C
+2021,Saskatchewan,20.2,C
+2022,Saskatchewan,28.1,C
+2023,Saskatchewan,30.5,C
+2024,Saskatchewan,26.7,C

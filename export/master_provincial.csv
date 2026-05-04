@@ -1,0 +1,12 @@
+province,gini_aftertax,lico_at_pct,lim_at_pct,median_aftertax_income,tenant_shelter_burden_pct,unemployment_rate,fi_2022_pct,reliability,fi_marginal_pct,fi_moderate_pct,fi_severe_pct,is_canada,abbrev,income_k
+Alberta,0.307,4.6,9.2,83000.0,34.0,11.5,28.2,C,7.2,12.7,8.2,False,AB,83.0
+British Columbia,0.306,5.8,10.8,76000.0,37.8,8.4,22.1,C,6.4,9.9,5.8,False,BC,76.0
+Canada,0.302,5.2,11.1,73000.0,33.2,10.3,23.1,A,6.0,11.0,6.1,True,CAN,73.0
+Manitoba,0.29,6.3,14.2,69000.0,33.5,8.3,26.4,C,7.2,11.7,7.4,False,MB,69.0
+New Brunswick,0.272,3.8,14.2,62000.0,28.0,10.3,25.3,C,6.2,11.1,8.0,False,NB,62.0
+Newfoundland and Labrador,0.29,3.7,15.2,63200.0,32.5,15.2,26.0,C,6.2,11.0,8.8,False,NL,63.2
+Nova Scotia,0.282,4.7,14.9,62400.0,34.7,12.7,28.8,C,6.1,15.2,7.4,False,NS,62.4
+Ontario,0.308,5.3,10.1,79500.0,38.4,12.2,24.6,B,5.9,11.9,6.8,False,ON,79.5
+Prince Edward Island,0.271,4.1,13.8,64000.0,30.3,10.3,30.1,D,7.7,16.5,5.9,False,PEI,64.0
+Quebec,0.28,5.3,11.9,63200.0,25.2,7.6,15.8,C,5.0,8.0,2.9,False,QC,63.2
+Saskatchewan,0.293,4.0,13.4,73000.0,33.1,8.4,28.1,C,7.9,13.2,7.0,False,SK,73.0
