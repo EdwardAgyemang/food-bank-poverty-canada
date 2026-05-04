@@ -192,7 +192,7 @@ Download `census_cma_2021.csv` from Statistics Canada Table 98-401-X2021002 and 
 
 **Edward Agyemang**
 MPS Data Analytics, Northeastern University Vancouver, 2026
-github.com/EdwardAgyemang | edward.agyemang@northeastern.edu
+github.com/EdwardAgyemang | agyemang.ed@northeastern.edu
 
 This analysis was motivated by four years of building operations work across 13 properties in Vancouver's Downtown Eastside, where the structural causes of hunger are not abstract. The data in this report describes at a national scale what I observed in person every day.
 
