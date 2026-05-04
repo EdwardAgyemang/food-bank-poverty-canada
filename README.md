@@ -54,7 +54,7 @@ Before asking which factors predict hunger, it helps to understand how the struc
 
 ![Correlation Matrix](export/correlation_heatmap.png)
 
-The most important number in this chart is the 0.08 in the bottom left, where median income meets food insecurity. That is essentially zero — provinces that earn more do not systematically have less hunger. The strongest direct link to food insecurity is tenant shelter burden at 0.34. Provinces where more renters spend 30 percent or more of their income on housing tend to have more people going hungry. When rent takes most of your paycheque, there is less left for food.
+The most important number in this chart is the 0.08 in the bottom left, where the Food Insecurity row meets the Median After-Tax Income column. That is essentially zero — provinces that earn more do not systematically have less hunger. The strongest direct link to food insecurity is tenant shelter burden at 0.34, two cells to the left of the bottom right corner. Provinces where more renters spend 30 percent or more of their income on housing tend to have more people going hungry. When rent takes most of your paycheque, there is less left for food.
 
 ---
 
